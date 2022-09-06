@@ -1,0 +1,203 @@
+*{
+	background-color: white;
+	margin: 0px;
+}
+h1{
+	 margin:  0px;
+
+	font-size: 100px;
+}
+#div-1{
+	text-align: center;
+	background-color: #9ABCFC;
+	float: center;
+}
+h3, #bb1{
+	font-size: 20px;
+	background-color: #FCB99A;
+
+}
+h2{
+	font-size: 30px;
+}
+#TA{
+	width: 238px;
+	height: 238px;
+	font-size: 140px;
+	text-align: center;
+	border-color: #9ABCFC;
+	border-width: 10px;	
+	color: ;
+}
+#TAN{
+	width: 400px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	border-color: #9ABCFC;
+	border-width: 5px;
+}
+#boton{
+	width: 140px;
+	height: 40px;
+	text-align: center;
+}
+#boton:hover{
+	width: 150px;
+	height: 45px;
+	font-size: 17px;
+	background-color: lightgrey;
+	font-weight: bold;
+
+
+}
+#N2, #N3, #N4, #N5{
+	width: 530px;
+	height: 50px;
+	font-size: 40px;
+	text-align: center;
+	font-size: 25px;
+	background-color: #BBDFFC;
+}
+
+#numero, #nombre, #C2, #C3, #C4, #C5{
+	width: 200px;
+	font-size: 40px;
+	text-align: center;
+}
+#div-2{
+	width: 45%;
+	height: 275px;
+	float: left;
+}
+#div-3{
+	width: 55%;
+	float: right;
+}
+#div-5{
+	margin-top: transparent;
+	width: 100%;
+	float: left;
+}
+#div-5r{
+	float: left;
+	width: 85%;
+}
+#logo{
+	width: 15%;
+	float: right;
+	background: transparent;
+}
+#bb{
+	background-color: #9ABCFC;
+}
+#P1{
+	width: 100%;
+	height: 488px;
+}
+#P2{
+	width: 100%;
+	height: 250px;
+}
+#boton2{
+	width: 420px;
+	height: 40px;
+	font-size: 30px;	
+	background-color: #73A4FF;
+	border-radius: 20px;
+	float: right;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+#botonB{
+	width:45%;
+	height: 160px;
+	float: left;
+	background-color: white;
+}
+#redesspace{
+	width: 50%;
+	height: 180px;
+	float: right;
+	border: #FCB99A 5px solid;
+
+}
+#boton2:hover{
+ color: darkblue;
+ font-size: 35px;
+}
+#redess{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	font-size: 35px;
+	background-color: #FCB99A;
+	font-weight: bold;
+	border: #FCB99A 5px solid;
+}
+#img1{
+	width: 30px;
+	height: 30px;
+}
+}
+#redes1{
+	color: black;
+	font-size: 40px;
+}
+#redes1:hover{
+	color: #4B8D00;
+	font-size: 22px;
+}
+#redes2{
+	color: black;
+	font-size: 19px;
+}
+#redes2:hover{
+	color: #DD2A7B;
+	font-size: 22px;
+}
+#redes3{
+	color: black;
+	font-size: 19px;
+}
+#redes3:hover{
+	color:#0099FF;
+	font-size: 22px;
+}
+#RTA{
+	width: 250px;
+	height: 20px;
+	font-size: 20px;
+	text-align: center;
+	border-color: #9ABCFC;
+	border-width: 5px;	
+	color: ;
+}
+#RTAN{
+	width: 250px;
+	height: 20px;
+	font-size: 20px;
+	text-align: center;
+	border-color: #9ABCFC;
+	border-width: 5px;
+}
+#Rboton{
+	width: 115px;
+	height: 30px;
+	font-size: 12px;
+	font-weight: bold;
+	border-width: 1px;
+	text-align: center;
+}
+#Rboton:hover{
+
+	font-size: 15px;
+	background-color: lightgrey;
+	border-width: 5px;
+	border-color: dimgrey;
+
+}
+#tabla{
+	background-color:#3AA6FC;
+}
